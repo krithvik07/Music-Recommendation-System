@@ -57,7 +57,7 @@ python -m pip install -r requirements.txt
 
 ### ▶️ Step 3: Run the App
 ```bash
-streamlit run Music_Recommendation_System_using_Python_code_prep_2.ipynb
+streamlit run Music_Recommendation_System.ipynb
 ```
 
 > You’ll be prompted to select a song — the app will return top similar songs based on lyrical themes.
@@ -66,13 +66,13 @@ streamlit run Music_Recommendation_System_using_Python_code_prep_2.ipynb
 
 ## 🧰 Tech Stack
 
-| Tool           | Purpose                               |
-|----------------|----------------------------------------|
-| **Python**     | Core programming language              |
-| **Streamlit**  | Web app interface                      |
-| **Scikit-learn**| TF-IDF, cosine similarity computation |
-| **NLTK**       | Text preprocessing (stopwords, tokenization) |
-| **Pandas**     | Data manipulation                      |
+| Tool            | Purpose                                      |
+|-----------------|----------------------------------------------|
+| **Python**      | Core programming language                    |
+| **Streamlit**   | Web app interface                            |
+| **Scikit-learn**| TF-IDF, cosine similarity computation        |
+| **NLTK**        | Text preprocessing (stopwords, tokenization) |
+| **Pandas**      | Data manipulation                            |
 
 ---
 
