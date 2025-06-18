@@ -33,9 +33,11 @@ Built with **Python** and **Streamlit**, this lightweight web app showcases stro
 ```
 📁 music-recommendation-app-python
 ├── Music_Recommendation_System.ipynb  # Core logic in notebook format
-├── requirements.txt                   # All dependencies
-├── .gitignore                         # Files to ignore in Git
-└── README.md                          # You're reading it!
+├── main.py              # Streamlit web app
+├── recommend.py         # Song recommendation logic
+├── preprocess.py        # Data cleaning & vectorization
+├── requirements.txt     # Python dependencies
+├── README.md            # Project documentation
 ```
 
 ---
