@@ -10,8 +10,8 @@ Built with **Python** and **Streamlit**, this lightweight web app showcases stro
 ## 🚀 Key Highlights
 
 - 🔍 **TF-IDF + Cosine Similarity**: Finds lyrically similar tracks using NLP.
-- 💬 **Lyrics-Centric Discovery**: Goes beyond genre or artist — recommends based on lyrical themes more than 30000 lines.
-- 🎵 Large-Scale Dataset: Trained and tested on a curated collection of more than 7,500 songs across various genres and artists
+- 💬 **Lyrics-Centric Discovery**: Goes beyond genre or artist — recommends based on lyrical themes more than 25000 lines.
+- 🎵 Large-Scale Dataset: Trained and tested on a curated collection of more than 100 songs across various genres and artists
 - ⚡ **Real-Time Recommendations**: Interactive, fast, and intuitive web app using **Streamlit**.
 - 🧠 **Explainable ML**: Transparent, interpretable results powered by classical machine learning.
 
